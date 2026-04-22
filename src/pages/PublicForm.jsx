@@ -25,7 +25,7 @@ const PublicForm = () => {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center p-6 text-left">
       <form onSubmit={handleSubmit} className="bg-white p-8 rounded-2xl shadow-xl max-w-md w-full border border-blue-50">
         <h2 className="text-2xl font-bold text-gray-800 mb-1">Enquiry Form</h2>
-        <p className="text-gray-500 mb-6 text-sm">Vikas Marble Murti Arts - Contact Us</p>
+        <p className="text-gray-500 mb-6 text-sm">www.domain.com - Contact Us</p>
         
         <div className="space-y-4">
           <div>
